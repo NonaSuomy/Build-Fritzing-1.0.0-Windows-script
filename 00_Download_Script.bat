@@ -87,3 +87,4 @@ if not exist directories_config.bat (
     echo.>> directories_config.bat
     echo rem Created by 00_Download_Script.bat>> directories_config.bat
 )
+
