@@ -67,3 +67,4 @@ start /wait 19_Organize_unnecessary_files.bat
 start /wait 20_Create_Fritzing_zip_package.bat
 
 exit
+
