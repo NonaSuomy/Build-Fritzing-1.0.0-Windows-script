@@ -22,3 +22,4 @@ rem https://github.com/fritzing/fritzing-app/commit/ba8ab8760d01dc0870299f845694
 xcopy /E .\quazip-6.5.3-1.4 .\quazip-6.5.3-1.4intuisphere\
 
 exit
+
