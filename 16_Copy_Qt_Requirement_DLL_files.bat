@@ -31,3 +31,4 @@ rundll32 user32.dll,MessageBeep
 timeout /T 5 /NOBREAK
 
 goto failed_beep
+
