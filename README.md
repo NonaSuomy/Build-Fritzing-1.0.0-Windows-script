@@ -12,7 +12,7 @@ http://www.neko.ne.jp/~freewing/software/build_fritzing_100_windows/
 
 * Build Step  
 ```
-* Open Command Prompt  
+* Open Command Prompt
 
 bitsadmin /TRANSFER hoge https://raw.githubusercontent.com/FREEWING-JP/Build-Fritzing-1.0.0-Windows-script/main/00_Download_Script.bat %cd%\00_Download_Script.bat  
 
@@ -20,11 +20,11 @@ bitsadmin /TRANSFER hoge https://raw.githubusercontent.com/FREEWING-JP/Build-Fri
 # set QT_INSTALL_DIR=D:\CustomQtPath  
 # set FRITZING_WORKSPACE_DIR=D:\FritzingBuild  
 # set VS_INSTALL_DIR=D:\VisualStudio\2019\BuildTools  
-00_Download_Script.bat  
+00_Download_Script.bat
 
-00_Execute_Script.bat  
+00_Execute_Script.bat
 
-* Wait an hour  
+* Wait an hour
 ```
 
 ## Directory Configuration
