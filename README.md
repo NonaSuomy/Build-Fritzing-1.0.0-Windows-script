@@ -105,3 +105,4 @@ http://www.neko.ne.jp/~freewing/software/build_fritzing_100_windows/
 
 * Youtube  
 [<img src="https://img.youtube.com/vi/wLDuyNqms_g/maxresdefault.jpg" alt="Fritzing 1.0.0を無料でゲットする方法" title="Fritzing 1.0.0を無料でゲットする方法" width="320" height="180"> YouTube https://youtu.be/wLDuyNqms_g](https://youtu.be/wLDuyNqms_g)  
+
