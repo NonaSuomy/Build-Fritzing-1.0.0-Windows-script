@@ -24,3 +24,4 @@ echo libgit2 v0.28.5
 git clone https://github.com/libgit2/libgit2 -b v0.28.5
 
 exit
+
