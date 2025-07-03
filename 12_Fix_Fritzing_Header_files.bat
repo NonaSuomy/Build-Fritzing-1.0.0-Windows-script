@@ -44,3 +44,4 @@ xcopy ..\fritzing_h\ ..\release64\
 cd ..
 
 exit
+
