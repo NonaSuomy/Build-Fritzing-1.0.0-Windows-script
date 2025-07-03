@@ -98,3 +98,4 @@ exit
 
 rem include QtCreator
 echo   install qt.tools.qtcreator_gui ^^>>qt_inst.bat
+
