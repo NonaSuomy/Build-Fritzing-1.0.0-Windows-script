@@ -9,7 +9,7 @@ if exist qt_config.bat call qt_config.bat
 
 cd /d %FRITZING_WORKSPACE_DIR%
 
-set Fritzing_XXX=Fritzing_104
+set Fritzing_XXX=Fritzing_105
 
 ren release64 %Fritzing_XXX%
 
@@ -32,4 +32,3 @@ timeout /T 10 /NOBREAK
 start .
 
 exit
-

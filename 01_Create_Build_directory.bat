@@ -10,4 +10,3 @@ echo Using Fritzing workspace directory: %FRITZING_WORKSPACE_DIR%
 cd \
 mkdir %FRITZING_WORKSPACE_DIR%
 cd /d %FRITZING_WORKSPACE_DIR%
-

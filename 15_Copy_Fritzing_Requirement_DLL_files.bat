@@ -21,4 +21,3 @@ rem for Fritzing 1.0.2
 copy .\clipper1-6.4.2\lib\polyclipping.dll .\release64
 
 exit
-

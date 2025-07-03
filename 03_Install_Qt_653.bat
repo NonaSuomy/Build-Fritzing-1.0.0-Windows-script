@@ -22,8 +22,8 @@ echo ===
 echo Input Qt Account
 rem Beep
 rundll32 user32.dll,MessageBeep
-if "%Qt_email%" == "" set /p Qt_email=Qt Account your_email ?
-if "%Qt_passw%" == "" set /p Qt_passw=Qt Account your_password ?
+if "%Qt_email%" == "" set /p Qt_email=Qt Account your_email ? 
+if "%Qt_passw%" == "" set /p Qt_passw=Qt Account your_password ? 
 
 cls
 
@@ -98,4 +98,3 @@ exit
 
 rem include QtCreator
 echo   install qt.tools.qtcreator_gui ^^>>qt_inst.bat
-

@@ -62,4 +62,3 @@ start /wait powershell "Start-Process -FilePath '7z_inst.bat' -WorkingDirectory 
 .\7z\7z x ngspice-42_dll_64.7z -o.\
 
 exit
-

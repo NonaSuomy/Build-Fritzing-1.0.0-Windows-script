@@ -46,4 +46,3 @@ TASKLIST /FI "STATUS eq RUNNING" | findstr Fritzing.exe
 if %ERRORLEVEL% EQU 0 goto wait_close
 
 exit
-
