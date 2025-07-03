@@ -56,3 +56,4 @@ vs_BuildTools_2019.exe --config %VSDIR%\VSBT_VS2019.vsconfig ^
   --norestart --passive --wait
 
 exit
+
