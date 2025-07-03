@@ -13,3 +13,4 @@ rem Visual Studio installation directory (default is auto-detected)
 set VS_INSTALL_DIR=C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools
 
 rem Additional configuration variables can be added here
+
